@@ -1,0 +1,4 @@
+hardcore = oui
+volume = 58
+difficulte = difficile
+musiqueFond = non

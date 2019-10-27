@@ -1,0 +1,6 @@
+getReady.ogg
+miamPacgommeBis.wav
+pacman_eatfruit.wav
+pacman_intermission.ogg
+pacman_extrapac.wav
+pacman_eatghost.wav

@@ -1,0 +1,8 @@
+score = 0
+pacgommeMange = 0
+fruitMange = 0
+nbThemePacmanJouer = 0
+nbThemeLotrJouer = 0
+vieGarde = 0
+viePerdue = 0
+fantomeMange = 0

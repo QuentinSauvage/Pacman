@@ -1,0 +1,9 @@
+Les maps sont représenter de la manière suivante:
+
+0 = Espace vide avec un pacgomme
+1 = Un mur infranchissable
+2 = Les murs représentation la maison des fantômes
+3 = La porte représentant la porte de la maison des fantômes
+4 = Usage futur si on a le temps
+5 = Un espace vide sans pacgomme
+6 = superpacgomme
